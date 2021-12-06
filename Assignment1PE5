@@ -1,0 +1,45 @@
+<body><table border="1">
+
+<tbody><tr>
+    <th> Apple iOS </th>
+    <th> iPad </th>
+    <th> iPhone </th>
+    <th> iPod Touch </th>
+    <th> </th>
+</tr>
+
+<tr>
+
+
+
+
+    <th> Google Android </th>
+    <th> Nexus 7</th>
+    <th> Samsung Galaxy Note 8 </th>
+    <th> Samsung Galaxy Note 4 </th>
+    <th> HP Slate 7 </th>
+
+</tr>
+
+
+
+<tr>
+    <th> Blackberry OS </th>
+    <th> Blackberry Z10 </th>
+    <th> Blackberry Q10 </th>
+    <th> </th>
+    <th> </th>
+    
+</tr>
+
+
+<tr>
+    <th> Microsoft Windows Phone OS/RT </th>
+    <th> Nokia </th>
+    <th> Samsung ATIV </th>
+    <th> Surface </th>
+    <th> </th>
+
+
+    
+</tr></tbody></table></body>
