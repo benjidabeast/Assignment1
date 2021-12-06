@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.center {
+  text-align: center;
+  border: 3px solid black;
+}
+</style>
+</head>
+<body>
+
+
+<div class="center">
+<h2>Programming Exercises</h2>
+</div>
+
+<div class="center">
+  <sub>Devices</sub>
+</div>
+
+</body>
+</html>
