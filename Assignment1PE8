@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color:yellow;
+}
+</style>
+</head>
+<body>
+
+
+
+<table>
+  <tr>
+    <th> Apple iOS </th>
+    <th> iPad </th>
+    <th> iPhone </th>
+    <th> iPod Touch </th>
+    <th> </th>
+</tr>
+  
+  <tr>
+    <th> Google Android </th>
+    <th> Nexus 7</th>
+    <th> Samsung Galaxy Note 8 </th>
+    <th> Samsung Galaxy Note 4 </th>
+    <th> HP Slate 7 </th>
+
+</tr>
+
+<tr>
+    <th> Blackberry OS </th>
+    <th> Blackberry Z10 </th>
+    <th> Blackberry Q10 </th>
+    <th> </th>
+    <th> </th>
+    
+</tr>
+
+<tr>
+    <th> Microsoft Windows Phone OS/RT </th>
+    <th> Nokia </th>
+    <th> Samsung ATIV </th>
+    <th> Surface </th>
+    <th> </th>
+</tr>
+</table>
+
+</body>
+</html>
